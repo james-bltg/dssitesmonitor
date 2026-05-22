@@ -10,8 +10,6 @@ sites:
     url: https://www.ilovegrow.com
   - name: Reader
     url: https://cedarbook.biblestudy.top/landing
-  - name: Email Notification Test
-    url: https://thissitedoesnotexist-upptime-test.invalid
 
 
 status-website:
