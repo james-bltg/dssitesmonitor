@@ -10,6 +10,14 @@ sites:
     url: https://www.ilovegrow.com
   - name: Reader
     url: https://cedarbook.biblestudy.top/landing
+  - name: Pei Wo Shuo
+    url: https://peiwoshuo.org
+  - name: Ai Sheng Ming
+    url: https://aishengming.org
+  - name: Jia You Zhong Guo
+    url: https://jiayouzhongguo.org
+  - name: Xin Sheng Ming
+    url: https://xinshengming.com
 
 
 status-website:
