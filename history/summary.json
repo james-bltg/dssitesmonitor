@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2927,
-    "timeDay": 2927,
-    "timeWeek": 2927,
-    "timeMonth": 2927,
-    "timeYear": 2927,
+    "time": 2933,
+    "timeDay": 2933,
+    "timeWeek": 2933,
+    "timeMonth": 2933,
+    "timeYear": 2933,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 576,
-    "timeDay": 576,
-    "timeWeek": 576,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "time": 600,
+    "timeDay": 600,
+    "timeWeek": 600,
+    "timeMonth": 600,
+    "timeYear": 600,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 880,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 862,
+    "timeDay": 862,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Email Notification Test",
-    "url": "https://thissitedoesnotexist-upptime-test.invalid",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist-upptime-test.invalid.ico",
-    "slug": "email-notification-test",
-    "status": "down",
-    "uptime": "70.26%",
-    "uptimeDay": "70.26%",
-    "uptimeWeek": "70.26%",
-    "uptimeMonth": "70.26%",
-    "uptimeYear": "70.26%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-05-22": 0
-    }
   }
 ]
