@@ -25,14 +25,12 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /dssitesmonitor
   logoUrl: https://glm.yulecedar.com/assets/logo-f27409e7.webp
-  name: 轻轻听·Listen Quietly
-  introTitle: "**轻轻听** Providing soothing and comforting gospel music to help you quiet your heart and find peace."
+  name: Sites Status
+  introTitle: "DS"
   introMessage: 我们正在建立一座以耶稣基督为磐石的数字属灵家园，通过福音轻音乐、经文与祷告，陪伴疲惫和软弱的人重新回到神的怀抱，在神无条件的爱中得着安息，并在基督里持续成长。We are building a digital spiritual home founded on Jesus Christ as the cornerstone. Through gospel-inspired peaceful music, Scripture, and prayer, we seek to accompany the weary and the weak, helping them return to the Father’s embrace, find rest in God’s unconditional love, and continue growing in Christ.
   navbar:
     - title: Status
       href: /
-    - title: 轻轻听(Listen Quietly)
-      href: https://glm.yulecedar.com
 
 
 # Upptime also supports notifications, assigning issues, and more
