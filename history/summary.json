@@ -4,18 +4,20 @@
     "url": "https://jiatingshenghuo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jiatingshenghuo.com.ico",
     "slug": "family-life",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3002,
-    "timeDay": 3088,
-    "timeWeek": 3069,
-    "timeMonth": 3002,
-    "timeYear": 3002,
-    "dailyMinutesDown": {}
+    "time": 2913,
+    "timeDay": 1807,
+    "timeWeek": 2751,
+    "timeMonth": 2913,
+    "timeYear": 2913,
+    "dailyMinutesDown": {
+      "2026-06-11": 0
+    }
   },
   {
     "name": "I Love Grow",
