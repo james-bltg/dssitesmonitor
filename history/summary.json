@@ -6,18 +6,16 @@
     "slug": "family-life",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2913,
-    "timeDay": 1807,
-    "timeWeek": 2751,
-    "timeMonth": 2913,
-    "timeYear": 2913,
-    "dailyMinutesDown": {
-      "2026-06-11": 0
-    }
+    "time": 2830,
+    "timeDay": 510,
+    "timeWeek": 2447,
+    "timeMonth": 2830,
+    "timeYear": 2830,
+    "dailyMinutesDown": {}
   },
   {
     "name": "I Love Grow",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 437,
-    "timeWeek": 525,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 557,
+    "timeDay": 464,
+    "timeWeek": 493,
+    "timeMonth": 557,
+    "timeYear": 557,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 885,
-    "timeWeek": 927,
-    "timeMonth": 882,
-    "timeYear": 882,
+    "time": 881,
+    "timeDay": 854,
+    "timeWeek": 941,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1853,
-    "timeDay": 1939,
-    "timeWeek": 2014,
-    "timeMonth": 1853,
-    "timeYear": 1853,
+    "time": 1856,
+    "timeDay": 1930,
+    "timeWeek": 1857,
+    "timeMonth": 1856,
+    "timeYear": 1856,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1024,
-    "timeDay": 1088,
-    "timeWeek": 1064,
-    "timeMonth": 1024,
-    "timeYear": 1024,
+    "time": 1018,
+    "timeDay": 884,
+    "timeWeek": 1035,
+    "timeMonth": 1018,
+    "timeYear": 1018,
     "dailyMinutesDown": {}
   },
   {
@@ -103,8 +101,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 547,
-    "timeDay": 556,
-    "timeWeek": 540,
+    "timeDay": 547,
+    "timeWeek": 533,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {}
@@ -120,11 +118,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 819,
-    "timeWeek": 853,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "time": 905,
+    "timeDay": 765,
+    "timeWeek": 802,
+    "timeMonth": 905,
+    "timeYear": 905,
     "dailyMinutesDown": {}
   }
 ]
