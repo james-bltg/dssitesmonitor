@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jiatingshenghuo.com.ico",
     "slug": "family-life",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.77%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.76%",
+    "uptimeYear": "99.77%",
     "time": 3959,
     "timeDay": 2894,
     "timeWeek": 8387,
@@ -24,18 +24,20 @@
     "url": "https://www.ilovegrow.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovegrow.com.ico",
     "slug": "i-love-grow",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 545,
     "timeDay": 506,
     "timeWeek": 487,
     "timeMonth": 546,
     "timeYear": 545,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-26": 5
+    }
   },
   {
     "name": "Reader",
@@ -78,9 +80,9 @@
     "url": "https://aishengming.org",
     "icon": "https://icons.duckduckgo.com/ip3/aishengming.org.ico",
     "slug": "ai-sheng-ming",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +91,9 @@
     "timeWeek": 1110,
     "timeMonth": 1089,
     "timeYear": 1054,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-26": 0
+    }
   },
   {
     "name": "Jia You Zhong Guo",
