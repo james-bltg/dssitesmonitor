@@ -4,17 +4,17 @@
     "url": "https://jiatingshenghuo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jiatingshenghuo.com.ico",
     "slug": "family-life",
-    "status": "up",
+    "status": "down",
     "uptime": "98.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "91.99%",
     "uptimeMonth": "97.64%",
     "uptimeYear": "98.87%",
-    "time": 3799,
-    "timeDay": 2806,
-    "timeWeek": 2770,
-    "timeMonth": 4020,
-    "timeYear": 3799,
+    "time": 3765,
+    "timeDay": 1552,
+    "timeWeek": 2564,
+    "timeMonth": 3925,
+    "timeYear": 3765,
     "dailyMinutesDown": {
       "2026-06-20": 119,
       "2026-06-30": 170,
@@ -22,7 +22,8 @@
       "2026-08-03": 138,
       "2026-08-07": 14,
       "2026-08-06": 708,
-      "2026-08-08": 86
+      "2026-08-08": 86,
+      "2026-08-11": 0
     }
   },
   {
