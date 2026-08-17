@@ -53,18 +53,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cedarbook.biblestudy.top.ico",
     "slug": "reader",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.13%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
     "time": 888,
     "timeDay": 861,
     "timeWeek": 887,
     "timeMonth": 865,
     "timeYear": 888,
     "dailyMinutesDown": {
-      "2026-08-17": 2
+      "2026-08-17": 27
     }
   },
   {
@@ -72,17 +72,17 @@
     "url": "https://peiwoshuo.org",
     "icon": "https://icons.duckduckgo.com/ip3/peiwoshuo.org.ico",
     "slug": "pei-wo-shuo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "98.12%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 2595,
-    "timeDay": 19220,
-    "timeWeek": 8678,
-    "timeMonth": 3799,
-    "timeYear": 2595,
+    "time": 2588,
+    "timeDay": 15757,
+    "timeWeek": 8063,
+    "timeMonth": 3745,
+    "timeYear": 2588,
     "dailyMinutesDown": {
       "2026-08-17": 27
     }
