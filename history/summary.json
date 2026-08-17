@@ -70,18 +70,20 @@
     "url": "https://peiwoshuo.org",
     "icon": "https://icons.duckduckgo.com/ip3/peiwoshuo.org.ico",
     "slug": "pei-wo-shuo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1887,
-    "timeWeek": 1685,
-    "timeMonth": 1748,
-    "timeYear": 1840,
-    "dailyMinutesDown": {}
+    "time": 2036,
+    "timeDay": 10696,
+    "timeWeek": 3912,
+    "timeMonth": 2303,
+    "timeYear": 2036,
+    "dailyMinutesDown": {
+      "2026-08-17": 0
+    }
   },
   {
     "name": "Ai Sheng Ming",
