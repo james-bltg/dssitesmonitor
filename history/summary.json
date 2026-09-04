@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/jiatingshenghuo.com.ico",
     "slug": "family-life",
     "status": "up",
-    "uptime": "98.61%",
+    "uptime": "98.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.37%",
-    "uptimeYear": "98.61%",
+    "uptimeYear": "98.62%",
     "time": 3848,
     "timeDay": 3123,
-    "timeWeek": 2990,
+    "timeWeek": 2970,
     "timeMonth": 3686,
     "timeYear": 3848,
     "dailyMinutesDown": {
@@ -33,20 +33,21 @@
     "url": "https://www.ilovegrow.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovegrow.com.ico",
     "slug": "i-love-grow",
-    "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "status": "down",
+    "uptime": "99.88%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.88%",
     "time": 569,
     "timeDay": 529,
-    "timeWeek": 565,
+    "timeWeek": 579,
     "timeMonth": 571,
     "timeYear": 569,
     "dailyMinutesDown": {
       "2026-06-26": 99,
-      "2026-07-05": 72
+      "2026-07-05": 72,
+      "2026-09-04": 5
     }
   },
   {
@@ -62,7 +63,7 @@
     "uptimeYear": "99.64%",
     "time": 889,
     "timeDay": 829,
-    "timeWeek": 859,
+    "timeWeek": 857,
     "timeMonth": 885,
     "timeYear": 889,
     "dailyMinutesDown": {
@@ -83,7 +84,7 @@
     "uptimeYear": "99.98%",
     "time": 2424,
     "timeDay": 1567,
-    "timeWeek": 1584,
+    "timeWeek": 1610,
     "timeMonth": 3650,
     "timeYear": 2424,
     "dailyMinutesDown": {
@@ -95,20 +96,21 @@
     "url": "https://aishengming.org",
     "icon": "https://icons.duckduckgo.com/ip3/aishengming.org.ico",
     "slug": "ai-sheng-ming",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1081,
     "timeDay": 1025,
-    "timeWeek": 1119,
+    "timeWeek": 1132,
     "timeMonth": 1101,
     "timeYear": 1081,
     "dailyMinutesDown": {
       "2026-06-26": 94,
-      "2026-07-05": 68
+      "2026-07-05": 68,
+      "2026-09-04": 0
     }
   },
   {
@@ -124,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 616,
     "timeDay": 562,
-    "timeWeek": 607,
+    "timeWeek": 621,
     "timeMonth": 741,
     "timeYear": 616,
     "dailyMinutesDown": {}
@@ -142,7 +144,7 @@
     "uptimeYear": "100.00%",
     "time": 948,
     "timeDay": 769,
-    "timeWeek": 965,
+    "timeWeek": 989,
     "timeMonth": 989,
     "timeYear": 948,
     "dailyMinutesDown": {}
