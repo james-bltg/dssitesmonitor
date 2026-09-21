@@ -78,20 +78,20 @@
     "url": "https://peiwoshuo.org",
     "icon": "https://icons.duckduckgo.com/ip3/peiwoshuo.org.ico",
     "slug": "pei-wo-shuo",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 2468,
-    "timeDay": 10580,
-    "timeWeek": 4029,
-    "timeMonth": 2240,
-    "timeYear": 2468,
+    "status": "up",
+    "uptime": "99.81%",
+    "uptimeDay": "78.08%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.81%",
+    "time": 2461,
+    "timeDay": 7535,
+    "timeWeek": 3742,
+    "timeMonth": 2216,
+    "timeYear": 2461,
     "dailyMinutesDown": {
       "2026-08-17": 27,
-      "2026-09-21": 0
+      "2026-09-21": 316
     }
   },
   {
