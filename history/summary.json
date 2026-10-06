@@ -35,22 +35,22 @@
     "url": "https://www.ilovegrow.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.ilovegrow.com.ico",
     "slug": "i-love-grow",
-    "status": "down",
+    "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.84%",
     "time": 576,
-    "timeDay": 0,
-    "timeWeek": 599,
-    "timeMonth": 597,
+    "timeDay": 637,
+    "timeWeek": 604,
+    "timeMonth": 598,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2026-06-26": 99,
       "2026-07-05": 72,
       "2026-09-04": 134,
-      "2026-10-06": 5
+      "2026-10-06": 15
     }
   },
   {
@@ -103,22 +103,22 @@
     "url": "https://aishengming.org",
     "icon": "https://icons.duckduckgo.com/ip3/aishengming.org.ico",
     "slug": "ai-sheng-ming",
-    "status": "down",
+    "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.85%",
     "time": 1107,
-    "timeDay": 0,
-    "timeWeek": 1079,
-    "timeMonth": 1192,
+    "timeDay": 1172,
+    "timeWeek": 1092,
+    "timeMonth": 1191,
     "timeYear": 1107,
     "dailyMinutesDown": {
       "2026-06-26": 94,
       "2026-07-05": 68,
       "2026-09-04": 129,
-      "2026-10-06": 0
+      "2026-10-06": 11
     }
   },
   {
