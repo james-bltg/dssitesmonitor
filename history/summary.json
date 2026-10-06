@@ -105,9 +105,9 @@
     "slug": "ai-sheng-ming",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 1107,
     "timeDay": 1172,
@@ -117,8 +117,7 @@
     "dailyMinutesDown": {
       "2026-06-26": 94,
       "2026-07-05": 68,
-      "2026-09-04": 129,
-      "2026-10-06": 11
+      "2026-09-04": 129
     }
   },
   {
