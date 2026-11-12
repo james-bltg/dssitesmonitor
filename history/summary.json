@@ -4,9 +4,9 @@
     "url": "https://jiatingshenghuo.com",
     "icon": "https://icons.duckduckgo.com/ip3/jiatingshenghuo.com.ico",
     "slug": "family-life",
-    "status": "up",
+    "status": "down",
     "uptime": "98.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.95%",
@@ -27,7 +27,8 @@
       "2026-08-21": 20,
       "2026-08-26": 102,
       "2026-09-11": 289,
-      "2026-09-10": 244
+      "2026-09-10": 244,
+      "2026-11-12": 0
     }
   },
   {
